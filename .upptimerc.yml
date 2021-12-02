@@ -9,6 +9,8 @@ sites:
     url: https://koetse.eu
   - name: home.koetse.eu
     url: https://home.koetse.eu
+  - name: koetse.nl
+    url: https://koetse.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
