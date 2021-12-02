@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 135,
-    "timeWeek": 149,
-    "timeMonth": 142,
-    "timeYear": 138,
+    "time": 137,
+    "timeDay": 99,
+    "timeWeek": 138,
+    "timeMonth": 140,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 254,
-    "timeWeek": 348,
-    "timeMonth": 342,
+    "timeDay": 259,
+    "timeWeek": 337,
+    "timeMonth": 340,
     "timeYear": 327,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-02": 65,
+      "2021-12-02": 1174,
       "2021-12-01": 1440,
       "2021-11-30": 1440,
       "2021-11-29": 1440,
@@ -129,5 +129,23 @@
       "2021-09-19": 1440,
       "2021-09-18": 116
     }
+  },
+  {
+    "name": "koetse.nl",
+    "url": "https://koetse.nl",
+    "icon": "https://favicons.githubusercontent.com/koetse.nl",
+    "slug": "koetse-nl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 940,
+    "timeDay": 940,
+    "timeWeek": 940,
+    "timeMonth": 940,
+    "timeYear": 940,
+    "dailyMinutesDown": {}
   }
 ]
