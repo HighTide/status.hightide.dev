@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 125,
-    "timeWeek": 116,
-    "timeMonth": 112,
+    "timeDay": 135,
+    "timeWeek": 129,
+    "timeMonth": 114,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 239,
-    "timeWeek": 296,
+    "time": 318,
+    "timeDay": 261,
+    "timeWeek": 298,
     "timeMonth": 296,
-    "timeYear": 319,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-11": 1207,
+      "2022-01-12": 71,
+      "2022-01-11": 1440,
       "2022-01-10": 1440,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
@@ -176,18 +177,16 @@
     "icon": "https://favicons.githubusercontent.com/koetse.nl",
     "slug": "koetse-nl",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 803,
-    "timeDay": 774,
-    "timeWeek": 840,
-    "timeMonth": 789,
-    "timeYear": 803,
-    "dailyMinutesDown": {
-      "2022-01-11": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 807,
+    "timeDay": 937,
+    "timeWeek": 880,
+    "timeMonth": 797,
+    "timeYear": 807,
+    "dailyMinutesDown": {}
   }
 ]
