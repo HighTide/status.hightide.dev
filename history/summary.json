@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 150,
-    "timeWeek": 171,
-    "timeMonth": 152,
+    "timeDay": 130,
+    "timeWeek": 170,
+    "timeMonth": 149,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "koetse-eu",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 253,
-    "timeWeek": 367,
-    "timeMonth": 373,
-    "timeYear": 325,
-    "dailyMinutesDown": {
-      "2022-06-17": 7
-    }
+    "time": 326,
+    "timeDay": 275,
+    "timeWeek": 366,
+    "timeMonth": 366,
+    "timeYear": 326,
+    "dailyMinutesDown": {}
   },
   {
     "name": "home.koetse.eu",
@@ -54,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-17": 1173,
+      "2022-06-18": 118,
+      "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
@@ -340,11 +339,11 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 871,
-    "timeDay": 2053,
-    "timeWeek": 1492,
-    "timeMonth": 1125,
-    "timeYear": 871,
+    "time": 878,
+    "timeDay": 2181,
+    "timeWeek": 1639,
+    "timeMonth": 1157,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2022-06-13": 39,
       "2022-02-04": 203
@@ -357,17 +356,15 @@
     "slug": "hyves-nl",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 295,
+    "time": 428,
+    "timeDay": 359,
     "timeWeek": 466,
-    "timeMonth": 453,
-    "timeYear": 427,
-    "dailyMinutesDown": {
-      "2022-06-17": 7
-    }
+    "timeMonth": 454,
+    "timeYear": 428,
+    "dailyMinutesDown": {}
   }
 ]
