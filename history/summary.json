@@ -22,10 +22,10 @@
     "url": "https://koetse.eu",
     "icon": "https://favicons.githubusercontent.com/koetse.eu",
     "slug": "koetse-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
@@ -33,7 +33,9 @@
     "timeWeek": 346,
     "timeMonth": 366,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "home.koetse.eu",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-21": 119,
+      "2022-06-21": 397,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -357,9 +359,9 @@
     "url": "https://hyves.nl",
     "icon": "https://favicons.githubusercontent.com/hyves.nl",
     "slug": "hyves-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -368,6 +370,8 @@
     "timeWeek": 424,
     "timeMonth": 450,
     "timeYear": 428,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
