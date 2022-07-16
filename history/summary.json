@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-16": 126,
+      "2022-07-16": 467,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
@@ -386,9 +386,9 @@
     "url": "https://hyves.nl",
     "icon": "https://favicons.githubusercontent.com/hyves.nl",
     "slug": "hyves-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.85%",
@@ -398,6 +398,7 @@
     "timeMonth": 397,
     "timeYear": 421,
     "dailyMinutesDown": {
+      "2022-07-16": 0,
       "2022-06-30": 354,
       "2022-06-29": 1,
       "2022-06-21": 37
