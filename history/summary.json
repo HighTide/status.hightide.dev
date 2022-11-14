@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 133,
-    "timeDay": 140,
-    "timeWeek": 181,
+    "timeDay": 83,
+    "timeWeek": 161,
     "timeMonth": 136,
-    "timeYear": 132,
+    "timeYear": 131,
     "dailyMinutesDown": {
       "2022-09-15": 97
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetse.eu.ico",
     "slug": "koetse-eu",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 326,
-    "timeDay": 380,
-    "timeWeek": 396,
-    "timeMonth": 351,
-    "timeYear": 327,
+    "time": 327,
+    "timeDay": 473,
+    "timeWeek": 403,
+    "timeMonth": 358,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2022-06-30": 355,
       "2022-06-29": 2,
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-13": 118,
+      "2022-11-14": 117,
+      "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
@@ -421,8 +422,7 @@
       "2021-11-18": 1440,
       "2021-11-17": 1440,
       "2021-11-16": 1440,
-      "2021-11-15": 1440,
-      "2021-11-14": 1440
+      "2021-11-15": 1440
     }
   },
   {
@@ -432,14 +432,14 @@
     "slug": "koetse-nl",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "96.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.94%",
     "time": 1151,
-    "timeDay": 1490,
-    "timeWeek": 1682,
-    "timeMonth": 1521,
+    "timeDay": 959,
+    "timeWeek": 1593,
+    "timeMonth": 1507,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2022-11-12": 52,
@@ -460,9 +460,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 427,
-    "timeDay": 464,
-    "timeWeek": 435,
-    "timeMonth": 419,
+    "timeDay": 267,
+    "timeWeek": 415,
+    "timeMonth": 417,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2022-06-30": 354,
