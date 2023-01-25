@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 87,
+      "2023-01-25": 531,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -430,9 +430,9 @@
     "url": "https://koetse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/koetse.nl.ico",
     "slug": "koetse-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -442,6 +442,7 @@
     "timeMonth": 1792,
     "timeYear": 1308,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-11-15": 19,
       "2022-11-12": 52,
       "2022-08-14": 15,
