@@ -1,7 +1,7 @@
 url: https://koetse.nl
-status: up
-code: 200
-responseTime: 2694
-lastUpdated: 2023-03-12T23:17:58.838Z
+status: down
+code: 500
+responseTime: 703
+lastUpdated: 2023-03-13T12:53:31.962Z
 startTime: Thu Dec 02 2021 19:33:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
