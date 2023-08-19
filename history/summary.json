@@ -24,19 +24,19 @@
     "url": "https://koetse.eu",
     "icon": "https://icons.duckduckgo.com/ip3/koetse.eu.ico",
     "slug": "koetse-eu",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 456,
-    "timeWeek": 377,
-    "timeMonth": 393,
-    "timeYear": 343,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "84.44%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.96%",
+    "time": 341,
+    "timeDay": 476,
+    "timeWeek": 392,
+    "timeMonth": 396,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-08-19": 0
+      "2023-08-19": 224
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 488,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-08-19": 537,
+      "2023-08-19": 761,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
