@@ -48,7 +48,7 @@
     "uptime": "2.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.22%",
+    "uptimeMonth": "38.07%",
     "uptimeYear": "4.14%",
     "time": 488,
     "timeDay": 0,
@@ -56,7 +56,7 @@
     "timeMonth": 493,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-08-28": 70,
+      "2023-08-28": 1009,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -439,17 +439,19 @@
     "url": "https://hyves.nl",
     "icon": "https://icons.duckduckgo.com/ip3/hyves.nl.ico",
     "slug": "hyves-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 479,
-    "timeDay": 472,
-    "timeWeek": 516,
-    "timeMonth": 496,
-    "timeYear": 494,
-    "dailyMinutesDown": {}
+    "timeDay": 341,
+    "timeWeek": 482,
+    "timeMonth": 487,
+    "timeYear": 493,
+    "dailyMinutesDown": {
+      "2023-08-28": 0
+    }
   }
 ]
