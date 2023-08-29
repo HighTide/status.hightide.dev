@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 130,
-    "timeDay": 140,
-    "timeWeek": 122,
-    "timeMonth": 123,
+    "time": 131,
+    "timeDay": 199,
+    "timeWeek": 127,
+    "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2022-09-15": 97
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.96%",
     "time": 344,
-    "timeDay": 1019,
-    "timeWeek": 516,
-    "timeMonth": 451,
+    "timeDay": 415,
+    "timeWeek": 502,
+    "timeMonth": 449,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2023-08-19": 224
@@ -48,15 +48,16 @@
     "uptime": "2.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.06%",
+    "uptimeMonth": "36.93%",
     "uptimeYear": "4.14%",
     "time": 488,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 493,
+    "timeMonth": 504,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-08-28": 1016,
+      "2023-08-29": 70,
+      "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -406,8 +407,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
-      "2022-08-30": 1440,
-      "2022-08-29": 1440
+      "2022-08-30": 1440
     }
   },
   {
@@ -421,11 +421,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1878,
-    "timeDay": 2462,
-    "timeWeek": 4313,
-    "timeMonth": 4298,
-    "timeYear": 2002,
+    "time": 1881,
+    "timeDay": 2527,
+    "timeWeek": 3830,
+    "timeMonth": 4175,
+    "timeYear": 2005,
     "dailyMinutesDown": {
       "2023-04-07": 16,
       "2023-03-13": 21,
@@ -441,17 +441,15 @@
     "slug": "hyves-nl",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 478,
-    "timeDay": 322,
-    "timeWeek": 462,
-    "timeMonth": 481,
+    "timeDay": 307,
+    "timeWeek": 427,
+    "timeMonth": 485,
     "timeYear": 493,
-    "dailyMinutesDown": {
-      "2023-08-28": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
