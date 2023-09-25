@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 77,
-    "timeWeek": 107,
-    "timeMonth": 118,
+    "timeDay": 74,
+    "timeWeek": 87,
+    "timeMonth": 116,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 345,
-    "timeDay": 438,
-    "timeWeek": 438,
-    "timeMonth": 418,
+    "time": 346,
+    "timeDay": 436,
+    "timeWeek": 443,
+    "timeMonth": 415,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2023-08-19": 224
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.koetse.eu.ico",
     "slug": "home-koetse-eu",
     "status": "down",
-    "uptime": "2.06%",
+    "uptime": "2.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-09-24": 74,
+      "2023-09-25": 71,
+      "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -404,8 +405,7 @@
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
-      "2022-09-26": 1440,
-      "2022-09-25": 1440
+      "2022-09-26": 1440
     }
   },
   {
@@ -419,11 +419,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2042,
-    "timeDay": 4085,
-    "timeWeek": 3833,
-    "timeMonth": 3896,
-    "timeYear": 2175,
+    "time": 2045,
+    "timeDay": 2101,
+    "timeWeek": 3253,
+    "timeMonth": 3833,
+    "timeYear": 2177,
     "dailyMinutesDown": {
       "2023-04-07": 16,
       "2023-03-13": 21,
@@ -444,9 +444,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 481,
-    "timeDay": 281,
-    "timeWeek": 447,
-    "timeMonth": 489,
+    "timeDay": 278,
+    "timeWeek": 408,
+    "timeMonth": 483,
     "timeYear": 499,
     "dailyMinutesDown": {}
   }
