@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 199,
-    "timeWeek": 132,
-    "timeMonth": 121,
+    "timeDay": 135,
+    "timeWeek": 140,
+    "timeMonth": 119,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 346,
-    "timeDay": 418,
-    "timeWeek": 427,
-    "timeMonth": 404,
+    "time": 345,
+    "timeDay": 331,
+    "timeWeek": 412,
+    "timeMonth": 403,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2023-08-19": 224
@@ -46,7 +46,7 @@
     "uptime": "2.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "4.14%",
     "time": 488,
     "timeDay": 0,
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-09-30": 1219,
+      "2023-10-01": 80,
+      "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -404,8 +405,7 @@
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
-      "2022-10-02": 1440,
-      "2022-10-01": 1440
+      "2022-10-02": 1440
     }
   },
   {
@@ -419,11 +419,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2082,
-    "timeDay": 2743,
-    "timeWeek": 4871,
-    "timeMonth": 4140,
-    "timeYear": 2233,
+    "time": 2083,
+    "timeDay": 2727,
+    "timeWeek": 4677,
+    "timeMonth": 4184,
+    "timeYear": 2237,
     "dailyMinutesDown": {
       "2023-04-07": 16,
       "2023-03-13": 21,
@@ -438,18 +438,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hyves.nl.ico",
     "slug": "hyves-nl",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 483,
-    "timeDay": 552,
-    "timeWeek": 489,
-    "timeMonth": 519,
-    "timeYear": 501,
-    "dailyMinutesDown": {
-      "2023-09-30": 10
-    }
+    "timeDay": 595,
+    "timeWeek": 534,
+    "timeMonth": 514,
+    "timeYear": 502,
+    "dailyMinutesDown": {}
   }
 ]
