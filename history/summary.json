@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 211,
-    "timeWeek": 134,
-    "timeMonth": 127,
+    "timeDay": 73,
+    "timeWeek": 127,
+    "timeMonth": 125,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 357,
-    "timeDay": 530,
-    "timeWeek": 465,
-    "timeMonth": 430,
+    "timeDay": 444,
+    "timeWeek": 466,
+    "timeMonth": 428,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2023-08-19": 224
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-11-23": 74,
+      "2023-11-24": 73,
+      "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
@@ -404,8 +405,7 @@
       "2022-11-28": 1440,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
-      "2022-11-25": 1440,
-      "2022-11-24": 1440
+      "2022-11-25": 1440
     }
   },
   {
@@ -415,15 +415,15 @@
     "slug": "koetse-nl",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "93.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
-    "time": 2232,
-    "timeDay": 1168,
-    "timeWeek": 1724,
-    "timeMonth": 2255,
-    "timeYear": 2433,
+    "time": 2233,
+    "timeDay": 1789,
+    "timeWeek": 1725,
+    "timeMonth": 2225,
+    "timeYear": 2434,
     "dailyMinutesDown": {
       "2023-11-22": 92,
       "2023-04-07": 16,
@@ -443,10 +443,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 492,
-    "timeDay": 477,
-    "timeWeek": 422,
-    "timeMonth": 492,
-    "timeYear": 513,
+    "timeDay": 302,
+    "timeWeek": 421,
+    "timeMonth": 484,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2023-11-20": 15
     }
@@ -462,13 +462,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 146,
-    "timeDay": 122,
-    "timeWeek": 166,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "time": 143,
+    "timeDay": 76,
+    "timeWeek": 158,
+    "timeMonth": 143,
+    "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-11-23": 75,
+      "2023-11-24": 73,
+      "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
@@ -518,7 +519,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-23": 75,
+      "2023-11-24": 73,
+      "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
