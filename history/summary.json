@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hightide.dev.ico",
     "slug": "hightide-dev",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "70.73%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.83%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "81.57%",
+    "uptimeMonth": "95.76%",
+    "uptimeYear": "99.65%",
     "time": 126,
-    "timeDay": 185,
-    "timeWeek": 162,
-    "timeMonth": 134,
+    "timeDay": 64,
+    "timeWeek": 147,
+    "timeMonth": 130,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2023-11-26": 78,
+      "2023-11-27": 75,
+      "2023-11-26": 1440,
       "2023-11-25": 343
     }
   },
@@ -32,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 358,
-    "timeDay": 454,
-    "timeWeek": 465,
-    "timeMonth": 438,
+    "timeDay": 441,
+    "timeWeek": 472,
+    "timeMonth": 441,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2023-08-19": 224
@@ -57,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-11-26": 78,
+      "2023-11-27": 75,
+      "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
@@ -407,8 +409,7 @@
       "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
-      "2022-11-28": 1440,
-      "2022-11-27": 1440
+      "2022-11-28": 1440
     }
   },
   {
@@ -423,10 +424,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 2236,
-    "timeDay": 2019,
-    "timeWeek": 1771,
-    "timeMonth": 2138,
-    "timeYear": 2434,
+    "timeDay": 1308,
+    "timeWeek": 1635,
+    "timeMonth": 2089,
+    "timeYear": 2433,
     "dailyMinutesDown": {
       "2023-11-22": 92,
       "2023-04-07": 16,
@@ -445,11 +446,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 503,
-    "timeWeek": 481,
+    "time": 493,
+    "timeDay": 682,
+    "timeWeek": 508,
     "timeMonth": 501,
-    "timeYear": 512,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2023-11-20": 15
     }
@@ -465,13 +466,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 139,
-    "timeDay": 82,
-    "timeWeek": 124,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "time": 143,
+    "timeDay": 281,
+    "timeWeek": 147,
+    "timeMonth": 141,
+    "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-11-26": 78,
+      "2023-11-27": 75,
+      "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
@@ -524,7 +526,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-26": 78,
+      "2023-11-27": 75,
+      "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
