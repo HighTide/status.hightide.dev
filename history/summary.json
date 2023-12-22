@@ -11,9 +11,9 @@
     "uptimeMonth": "44.35%",
     "uptimeYear": "95.36%",
     "time": 124,
-    "timeDay": 81,
-    "timeWeek": 112,
-    "timeMonth": 109,
+    "timeDay": 83,
+    "timeWeek": 116,
+    "timeMonth": 105,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2023-12-12": 992,
@@ -48,10 +48,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 359,
-    "timeDay": 301,
-    "timeWeek": 362,
-    "timeMonth": 415,
-    "timeYear": 364,
+    "timeDay": 444,
+    "timeWeek": 378,
+    "timeMonth": 413,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2023-08-19": 224
     }
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.koetse.eu.ico",
     "slug": "home-koetse-eu",
     "status": "down",
-    "uptime": "1.84%",
+    "uptime": "1.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -73,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-12-21": 74,
+      "2023-12-22": 73,
+      "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
@@ -423,8 +424,7 @@
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
-      "2022-12-23": 1440,
-      "2022-12-22": 1440
+      "2022-12-23": 1440
     }
   },
   {
@@ -438,11 +438,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
-    "time": 2252,
-    "timeDay": 2020,
-    "timeWeek": 1859,
-    "timeMonth": 1777,
-    "timeYear": 2454,
+    "time": 2253,
+    "timeDay": 2164,
+    "timeWeek": 1917,
+    "timeMonth": 1787,
+    "timeYear": 2455,
     "dailyMinutesDown": {
       "2023-11-22": 92,
       "2023-04-07": 16,
@@ -461,11 +461,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 350,
-    "timeWeek": 731,
-    "timeMonth": 492,
-    "timeYear": 517,
+    "time": 495,
+    "timeDay": 1484,
+    "timeWeek": 865,
+    "timeMonth": 521,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2023-11-20": 15
     }
@@ -481,13 +481,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 133,
-    "timeDay": 92,
-    "timeWeek": 102,
-    "timeMonth": 121,
-    "timeYear": 133,
+    "time": 136,
+    "timeDay": 297,
+    "timeWeek": 131,
+    "timeMonth": 127,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2023-12-21": 74,
+      "2023-12-22": 73,
+      "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
@@ -565,7 +566,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-21": 74,
+      "2023-12-22": 73,
+      "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
