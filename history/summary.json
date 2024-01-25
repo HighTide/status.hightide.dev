@@ -41,10 +41,10 @@
     "url": "https://koetse.eu",
     "icon": "https://icons.duckduckgo.com/ip3/koetse.eu.ico",
     "slug": "koetse-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 361,
@@ -53,6 +53,7 @@
     "timeMonth": 356,
     "timeYear": 365,
     "dailyMinutesDown": {
+      "2024-01-25": 1,
       "2023-08-19": 224
     }
   },
@@ -73,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-01-25": 21,
+      "2024-01-25": 1102,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -437,12 +438,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 2281,
     "timeDay": 1033,
     "timeWeek": 1738,
     "timeMonth": 1854,
-    "timeYear": 2467,
+    "timeYear": 2448,
     "dailyMinutesDown": {
       "2023-11-22": 92,
       "2023-04-07": 16,
@@ -486,7 +487,7 @@
     "timeMonth": 120,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-01-25": 22,
+      "2024-01-25": 1102,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -599,7 +600,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-25": 22,
+      "2024-01-25": 1102,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
