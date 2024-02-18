@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.36%",
     "time": 123,
-    "timeDay": 211,
-    "timeWeek": 155,
-    "timeMonth": 122,
+    "timeDay": 198,
+    "timeWeek": 163,
+    "timeMonth": 125,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2023-12-12": 992,
@@ -47,11 +47,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
-    "time": 361,
-    "timeDay": 420,
-    "timeWeek": 383,
-    "timeMonth": 314,
-    "timeYear": 364,
+    "time": 362,
+    "timeDay": 791,
+    "timeWeek": 443,
+    "timeMonth": 330,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2024-01-25": 83,
       "2023-08-19": 224
@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.koetse.eu.ico",
     "slug": "home-koetse-eu",
     "status": "down",
-    "uptime": "1.72%",
+    "uptime": "1.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-02-17": 19,
+      "2024-02-18": 21,
+      "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -424,8 +425,7 @@
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
-      "2023-02-19": 1440,
-      "2023-02-18": 1440
+      "2023-02-19": 1440
     }
   },
   {
@@ -440,9 +440,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2301,
-    "timeDay": 2275,
-    "timeWeek": 2082,
-    "timeMonth": 1886,
+    "timeDay": 1413,
+    "timeWeek": 1962,
+    "timeMonth": 1872,
     "timeYear": 2471,
     "dailyMinutesDown": {
       "2023-11-22": 92,
@@ -462,9 +462,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 937,
-    "timeDay": 391,
-    "timeWeek": 5546,
-    "timeMonth": 4752,
+    "timeDay": 464,
+    "timeWeek": 5105,
+    "timeMonth": 4527,
     "timeYear": 1087,
     "dailyMinutesDown": {
       "2023-11-20": 15
@@ -482,12 +482,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 123,
-    "timeDay": 69,
-    "timeWeek": 124,
+    "timeDay": 87,
+    "timeWeek": 94,
     "timeMonth": 98,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-02-17": 19,
+      "2024-02-18": 21,
+      "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -623,7 +624,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-17": 20,
+      "2024-02-18": 21,
+      "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
