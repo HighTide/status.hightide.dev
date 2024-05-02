@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.36%",
-    "time": 121,
-    "timeDay": 76,
-    "timeWeek": 80,
-    "timeMonth": 100,
+    "time": 120,
+    "timeDay": 57,
+    "timeWeek": 76,
+    "timeMonth": 96,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2023-12-12": 992,
@@ -48,10 +48,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 357,
-    "timeDay": 244,
-    "timeWeek": 375,
-    "timeMonth": 352,
-    "timeYear": 365,
+    "timeDay": 499,
+    "timeWeek": 408,
+    "timeMonth": 350,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2024-01-25": 83,
       "2023-08-19": 224
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-05-01": 22,
+      "2024-05-02": 20,
+      "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -424,8 +425,7 @@
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
-      "2023-05-04": 1440,
-      "2023-05-03": 1440
+      "2023-05-04": 1440
     }
   },
   {
@@ -440,9 +440,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 2479,
-    "timeDay": 2014,
-    "timeWeek": 3803,
-    "timeMonth": 2998,
+    "timeDay": 1766,
+    "timeWeek": 3812,
+    "timeMonth": 2961,
     "timeYear": 2636,
     "dailyMinutesDown": {
       "2024-04-25": 19,
@@ -461,10 +461,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1421,
-    "timeDay": 3990,
-    "timeWeek": 2668,
-    "timeMonth": 3104,
+    "time": 1420,
+    "timeDay": 358,
+    "timeWeek": 1560,
+    "timeMonth": 2496,
     "timeYear": 1714,
     "dailyMinutesDown": {
       "2023-11-20": 15
@@ -482,12 +482,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 113,
-    "timeDay": 96,
-    "timeWeek": 106,
+    "timeDay": 75,
+    "timeWeek": 104,
     "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-01": 22,
+      "2024-05-02": 20,
+      "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -697,7 +698,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-01": 22,
+      "2024-05-02": 20,
+      "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
