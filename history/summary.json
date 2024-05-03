@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-05-03": 21,
+      "2024-05-03": 546,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -455,18 +455,19 @@
     "url": "https://hyves.nl",
     "icon": "https://icons.duckduckgo.com/ip3/hyves.nl.ico",
     "slug": "hyves-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1424,
+    "time": 1426,
     "timeDay": 2484,
     "timeWeek": 1861,
     "timeMonth": 2396,
     "timeYear": 1719,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2023-11-20": 15
     }
   },
@@ -487,7 +488,7 @@
     "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-03": 21,
+      "2024-05-03": 546,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -699,7 +700,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-03": 21,
+      "2024-05-03": 546,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
