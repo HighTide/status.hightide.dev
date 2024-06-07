@@ -11,12 +11,8 @@ sites:
     url: https://home.koetse.eu
   - name: koetse.nl
     url: https://koetse.nl
-  - name: hyves.nl
-    url: https://hyves.nl
   - name: DatumKiezen.nl
-    url: https://DatumKiezen.nl    
-  - name: DatumKiezer.nl
-    url: https://DatumKiezer.nl        
+    url: https://DatumKiezen.nl        
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
