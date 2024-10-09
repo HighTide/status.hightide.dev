@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.36%",
     "time": 123,
-    "timeDay": 256,
-    "timeWeek": 168,
-    "timeMonth": 154,
+    "timeDay": 111,
+    "timeWeek": 155,
+    "timeMonth": 150,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2023-12-12": 992,
@@ -47,11 +47,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 380,
-    "timeDay": 492,
-    "timeWeek": 479,
-    "timeMonth": 416,
-    "timeYear": 379,
+    "time": 379,
+    "timeDay": 254,
+    "timeWeek": 464,
+    "timeMonth": 398,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2024-01-25": 83
     }
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.koetse.eu.ico",
     "slug": "home-koetse-eu",
     "status": "down",
-    "uptime": "1.36%",
+    "uptime": "1.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -73,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-08": 25,
+      "2024-10-09": 26,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -436,8 +437,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   },
   {
@@ -451,11 +451,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2892,
-    "timeDay": 1307,
-    "timeWeek": 2697,
-    "timeMonth": 3304,
-    "timeYear": 2694,
+    "time": 2894,
+    "timeDay": 2709,
+    "timeWeek": 2739,
+    "timeMonth": 2820,
+    "timeYear": 2693,
     "dailyMinutesDown": {
       "2024-04-25": 19,
       "2024-03-05": 52,
@@ -474,12 +474,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 169,
-    "timeWeek": 137,
-    "timeMonth": 123,
+    "timeDay": 93,
+    "timeWeek": 139,
+    "timeMonth": 119,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-10-08": 25,
+      "2024-10-09": 26,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
