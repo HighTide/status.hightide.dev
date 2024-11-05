@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 26,
+      "2024-11-05": 676,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
@@ -445,9 +445,9 @@
     "url": "https://koetse.nl",
     "icon": "https://icons.duckduckgo.com/ip3/koetse.nl.ico",
     "slug": "koetse-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -457,6 +457,7 @@
     "timeMonth": 1952,
     "timeYear": 2568,
     "dailyMinutesDown": {
+      "2024-11-05": 0,
       "2024-04-25": 19,
       "2024-03-05": 52,
       "2023-11-22": 92
@@ -479,7 +480,7 @@
     "timeMonth": 113,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-11-05": 26,
+      "2024-11-05": 676,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
