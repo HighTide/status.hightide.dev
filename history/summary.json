@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.36%",
-    "time": 123,
-    "timeDay": 194,
-    "timeWeek": 144,
-    "timeMonth": 131,
+    "time": 124,
+    "timeDay": 229,
+    "timeWeek": 161,
+    "timeMonth": 135,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2023-12-12": 992,
@@ -48,9 +48,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 377,
-    "timeDay": 301,
-    "timeWeek": 286,
-    "timeMonth": 300,
+    "timeDay": 483,
+    "timeWeek": 314,
+    "timeMonth": 308,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2024-01-25": 83
@@ -73,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-08": 25,
+      "2024-11-09": 25,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -436,8 +437,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 1440,
-      "2023-11-10": 1440
+      "2023-11-11": 1440
     }
   },
   {
@@ -452,10 +452,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2842,
-    "timeDay": 1803,
-    "timeWeek": 1632,
-    "timeMonth": 1736,
-    "timeYear": 2568,
+    "timeDay": 2130,
+    "timeWeek": 1678,
+    "timeMonth": 1718,
+    "timeYear": 2571,
     "dailyMinutesDown": {
       "2024-04-25": 19,
       "2024-03-05": 52,
@@ -474,12 +474,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 126,
-    "timeWeek": 110,
-    "timeMonth": 111,
+    "timeDay": 199,
+    "timeWeek": 124,
+    "timeMonth": 114,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-11-08": 25,
+      "2024-11-09": 25,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -842,8 +843,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 1440,
-      "2023-11-10": 1440
+      "2023-11-11": 1440
     }
   }
 ]
