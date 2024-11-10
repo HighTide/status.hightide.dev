@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.36%",
-    "time": 124,
-    "timeDay": 229,
-    "timeWeek": 161,
-    "timeMonth": 135,
+    "time": 123,
+    "timeDay": 175,
+    "timeWeek": 172,
+    "timeMonth": 139,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2023-12-12": 992,
@@ -48,9 +48,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 377,
-    "timeDay": 483,
-    "timeWeek": 314,
-    "timeMonth": 308,
+    "timeDay": 330,
+    "timeWeek": 325,
+    "timeMonth": 310,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2024-01-25": 83
@@ -73,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-09": 25,
+      "2024-11-10": 28,
+      "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
@@ -436,8 +437,7 @@
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
-      "2023-11-12": 1440,
-      "2023-11-11": 1440
+      "2023-11-12": 1440
     }
   },
   {
@@ -451,11 +451,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2842,
-    "timeDay": 2130,
-    "timeWeek": 1678,
-    "timeMonth": 1718,
-    "timeYear": 2571,
+    "time": 2839,
+    "timeDay": 1806,
+    "timeWeek": 1681,
+    "timeMonth": 1722,
+    "timeYear": 2570,
     "dailyMinutesDown": {
       "2024-04-25": 19,
       "2024-03-05": 52,
@@ -474,12 +474,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 199,
-    "timeWeek": 124,
-    "timeMonth": 114,
+    "timeDay": 115,
+    "timeWeek": 126,
+    "timeMonth": 115,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-11-09": 25,
+      "2024-11-10": 28,
+      "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
@@ -842,8 +843,7 @@
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
-      "2023-11-12": 1440,
-      "2023-11-11": 1440
+      "2023-11-12": 1440
     }
   }
 ]
