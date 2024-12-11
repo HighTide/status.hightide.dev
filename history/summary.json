@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.54%",
     "time": 125,
-    "timeDay": 97,
-    "timeWeek": 111,
-    "timeMonth": 137,
+    "timeDay": 203,
+    "timeWeek": 120,
+    "timeMonth": 140,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-12-12": 992
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "koetse.eu",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 376,
-    "timeDay": 259,
-    "timeWeek": 303,
-    "timeMonth": 331,
+    "time": 375,
+    "timeDay": 454,
+    "timeWeek": 328,
+    "timeMonth": 337,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2024-01-25": 83
@@ -50,13 +48,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 536,
+    "time": 539,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-10": 29,
+      "2024-12-11": 28,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -419,8 +418,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 1440
+      "2023-12-13": 1440
     }
   },
   {
@@ -434,11 +432,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2675,
-    "timeDay": 1610,
-    "timeWeek": 1455,
-    "timeMonth": 1669,
-    "timeYear": 2562,
+    "time": 2674,
+    "timeDay": 2006,
+    "timeWeek": 1625,
+    "timeMonth": 1680,
+    "timeYear": 2563,
     "dailyMinutesDown": {
       "2024-04-25": 19,
       "2024-03-05": 52
@@ -456,12 +454,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 105,
-    "timeWeek": 104,
-    "timeMonth": 116,
+    "timeDay": 97,
+    "timeWeek": 102,
+    "timeMonth": 115,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-12-10": 29,
+      "2024-12-11": 28,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -824,8 +823,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 1440
+      "2023-12-13": 1440
     }
   }
 ]
