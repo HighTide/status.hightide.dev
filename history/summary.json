@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hightide.dev.ico",
     "slug": "hightide-dev",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 106,
-    "timeWeek": 148,
-    "timeMonth": 140,
+    "timeDay": 91,
+    "timeWeek": 147,
+    "timeMonth": 139,
     "timeYear": 128,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 375,
-    "timeDay": 271,
-    "timeWeek": 361,
-    "timeMonth": 331,
+    "timeDay": 303,
+    "timeWeek": 367,
+    "timeMonth": 332,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2024-01-25": 83
@@ -48,13 +48,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 521,
+    "time": 537,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-16": 30,
+      "2024-12-17": 28,
+      "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -417,8 +418,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   },
   {
@@ -432,10 +432,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2656,
-    "timeDay": 1656,
-    "timeWeek": 1520,
-    "timeMonth": 1659,
+    "time": 2654,
+    "timeDay": 1777,
+    "timeWeek": 1544,
+    "timeMonth": 1661,
     "timeYear": 2558,
     "dailyMinutesDown": {
       "2024-04-25": 19,
@@ -454,12 +454,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 113,
-    "timeDay": 115,
-    "timeWeek": 133,
+    "timeDay": 102,
+    "timeWeek": 132,
     "timeMonth": 120,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-12-16": 30,
+      "2024-12-17": 29,
+      "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -822,8 +823,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   }
 ]
