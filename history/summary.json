@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 92,
-    "timeWeek": 125,
-    "timeMonth": 141,
+    "timeDay": 189,
+    "timeWeek": 140,
+    "timeMonth": 143,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 372,
-    "timeDay": 231,
-    "timeWeek": 288,
-    "timeMonth": 319,
-    "timeYear": 362,
+    "time": 371,
+    "timeDay": 393,
+    "timeWeek": 305,
+    "timeMonth": 322,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2024-01-25": 83
     }
@@ -46,7 +46,7 @@
     "uptime": "1.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-30": 28,
+      "2024-12-31": 26,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -417,8 +418,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   },
   {
@@ -432,11 +432,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2581,
-    "timeDay": 1674,
-    "timeWeek": 1779,
-    "timeMonth": 1627,
-    "timeYear": 2551,
+    "time": 2580,
+    "timeDay": 2125,
+    "timeWeek": 1847,
+    "timeMonth": 1643,
+    "timeYear": 2555,
     "dailyMinutesDown": {
       "2024-04-25": 19,
       "2024-03-05": 52
@@ -451,15 +451,16 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 97,
-    "timeWeek": 90,
-    "timeMonth": 113,
+    "timeDay": 82,
+    "timeWeek": 84,
+    "timeMonth": 112,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-12-30": 28,
+      "2024-12-31": 26,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -822,8 +823,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   }
 ]
