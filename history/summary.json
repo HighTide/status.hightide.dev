@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 77,
-    "timeWeek": 147,
-    "timeMonth": 149,
+    "time": 130,
+    "timeDay": 185,
+    "timeWeek": 140,
+    "timeMonth": 152,
     "timeYear": 133,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 349,
-    "timeWeek": 455,
-    "timeMonth": 442,
-    "timeYear": 376,
+    "timeDay": 393,
+    "timeWeek": 430,
+    "timeMonth": 443,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-25": 27,
+      "2025-02-26": 27,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -415,8 +416,7 @@
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
-      "2024-02-28": 1440,
-      "2024-02-27": 1440
+      "2024-02-28": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetse.nl.ico",
     "slug": "koetse-nl",
     "status": "down",
-    "uptime": "99.50%",
+    "uptime": "99.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "21.72%",
-    "uptimeMonth": "81.99%",
-    "uptimeYear": "98.49%",
-    "time": 2366,
-    "timeDay": 576,
-    "timeWeek": 737,
-    "timeMonth": 1440,
-    "timeYear": 2518,
+    "uptimeWeek": "7.43%",
+    "uptimeMonth": "78.70%",
+    "uptimeYear": "98.21%",
+    "time": 2363,
+    "timeDay": 532,
+    "timeWeek": 611,
+    "timeMonth": 1428,
+    "timeYear": 2517,
     "dailyMinutesDown": {
-      "2025-02-25": 27,
+      "2025-02-26": 27,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -459,12 +460,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 123,
-    "timeWeek": 102,
+    "timeDay": 87,
+    "timeWeek": 97,
     "timeMonth": 110,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-02-25": 27,
+      "2025-02-26": 27,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -827,8 +829,7 @@
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
-      "2024-02-28": 1440,
-      "2024-02-27": 1440
+      "2024-02-28": 1440
     }
   }
 ]
