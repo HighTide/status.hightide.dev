@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 107,
-    "timeWeek": 175,
-    "timeMonth": 172,
+    "timeDay": 100,
+    "timeWeek": 174,
+    "timeMonth": 170,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 354,
-    "timeWeek": 598,
+    "timeDay": 373,
+    "timeWeek": 596,
     "timeMonth": 532,
     "timeYear": 400,
     "dailyMinutesDown": {}
@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.koetse.eu.ico",
     "slug": "home-koetse-eu",
     "status": "down",
-    "uptime": "1.16%",
+    "uptime": "1.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-19": 28,
+      "2025-04-20": 32,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -415,8 +416,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1440,
-      "2024-04-20": 1440
+      "2024-04-21": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetse.nl.ico",
     "slug": "koetse-nl",
     "status": "down",
-    "uptime": "95.23%",
+    "uptime": "95.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.97%",
-    "time": 2236,
-    "timeDay": 461,
-    "timeWeek": 604,
-    "timeMonth": 606,
-    "timeYear": 2229,
+    "uptimeYear": "83.70%",
+    "time": 2233,
+    "timeDay": 653,
+    "timeWeek": 624,
+    "timeMonth": 611,
+    "timeYear": 2225,
     "dailyMinutesDown": {
-      "2025-04-19": 28,
+      "2025-04-20": 32,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -511,12 +512,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 111,
-    "timeDay": 109,
-    "timeWeek": 121,
-    "timeMonth": 148,
-    "timeYear": 113,
+    "timeDay": 128,
+    "timeWeek": 123,
+    "timeMonth": 146,
+    "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-04-19": 28,
+      "2025-04-20": 32,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -879,8 +881,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1440,
-      "2024-04-20": 1440
+      "2024-04-21": 1440
     }
   }
 ]
