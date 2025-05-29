@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 88,
-    "timeWeek": 98,
-    "timeMonth": 153,
+    "timeDay": 159,
+    "timeWeek": 103,
+    "timeMonth": 151,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
-    "timeDay": 397,
-    "timeWeek": 406,
-    "timeMonth": 472,
+    "timeDay": 354,
+    "timeWeek": 403,
+    "timeMonth": 462,
     "timeYear": 403,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-28": 31,
+      "2025-05-29": 30,
+      "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -415,8 +416,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetse.nl.ico",
     "slug": "koetse-nl",
     "status": "down",
-    "uptime": "92.31%",
+    "uptime": "92.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "73.29%",
-    "time": 2133,
-    "timeDay": 619,
-    "timeWeek": 546,
-    "timeMonth": 584,
-    "timeYear": 1948,
+    "uptimeYear": "73.02%",
+    "time": 2130,
+    "timeDay": 480,
+    "timeWeek": 542,
+    "timeMonth": 576,
+    "timeYear": 1946,
     "dailyMinutesDown": {
-      "2025-05-28": 31,
+      "2025-05-29": 30,
+      "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -549,12 +550,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 112,
+    "timeDay": 104,
     "timeWeek": 103,
-    "timeMonth": 128,
+    "timeMonth": 127,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-05-28": 31,
+      "2025-05-29": 31,
+      "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -917,8 +919,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   }
 ]
