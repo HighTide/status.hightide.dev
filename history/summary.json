@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/hightide.dev.ico",
     "slug": "hightide-dev",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 235,
-    "timeWeek": 159,
+    "timeDay": 161,
+    "timeWeek": 160,
     "timeMonth": 151,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 669,
-    "timeWeek": 453,
-    "timeMonth": 466,
+    "time": 394,
+    "timeDay": 395,
+    "timeWeek": 459,
+    "timeMonth": 465,
     "timeYear": 404,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-04": 31,
+      "2025-06-05": 31,
+      "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
@@ -415,8 +416,7 @@
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetse.nl.ico",
     "slug": "koetse-nl",
     "status": "down",
-    "uptime": "91.80%",
+    "uptime": "91.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.37%",
-    "time": 2112,
-    "timeDay": 737,
-    "timeWeek": 606,
-    "timeMonth": 584,
-    "timeYear": 1914,
+    "uptimeYear": "71.10%",
+    "time": 2110,
+    "timeDay": 674,
+    "timeWeek": 633,
+    "timeMonth": 587,
+    "timeYear": 1899,
     "dailyMinutesDown": {
-      "2025-06-04": 31,
+      "2025-06-05": 31,
+      "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
@@ -556,12 +557,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 169,
-    "timeWeek": 109,
-    "timeMonth": 107,
+    "timeDay": 101,
+    "timeWeek": 108,
+    "timeMonth": 106,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-06-04": 31,
+      "2025-06-05": 31,
+      "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
@@ -924,8 +926,7 @@
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   }
 ]
