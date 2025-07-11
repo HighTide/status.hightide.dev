@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 72,
-    "timeWeek": 139,
-    "timeMonth": 143,
+    "time": 140,
+    "timeDay": 287,
+    "timeWeek": 157,
+    "timeMonth": 148,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
-    "timeDay": 355,
-    "timeWeek": 439,
-    "timeMonth": 449,
-    "timeYear": 416,
+    "timeDay": 614,
+    "timeWeek": 471,
+    "timeMonth": 458,
+    "timeYear": 417,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 32,
+      "2025-07-11": 32,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -415,8 +416,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetse.nl.ico",
     "slug": "koetse-nl",
     "status": "down",
-    "uptime": "89.29%",
+    "uptime": "89.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.51%",
-    "time": 1961,
-    "timeDay": 457,
-    "timeWeek": 562,
-    "timeMonth": 592,
-    "timeYear": 1623,
+    "uptimeYear": "61.24%",
+    "time": 1959,
+    "timeDay": 694,
+    "timeWeek": 587,
+    "timeMonth": 600,
+    "timeYear": 1620,
     "dailyMinutesDown": {
-      "2025-07-10": 32,
+      "2025-07-11": 32,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -592,12 +593,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 114,
-    "timeDay": 96,
-    "timeWeek": 93,
-    "timeMonth": 119,
+    "timeDay": 160,
+    "timeWeek": 102,
+    "timeMonth": 121,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-07-10": 32,
+      "2025-07-11": 32,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -960,8 +962,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   }
 ]
