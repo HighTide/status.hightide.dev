@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hightide.dev.ico",
     "slug": "hightide-dev",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
     "timeDay": 104,
-    "timeWeek": 167,
-    "timeMonth": 155,
+    "timeWeek": 142,
+    "timeMonth": 151,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 395,
-    "timeWeek": 500,
-    "timeMonth": 470,
+    "timeDay": 358,
+    "timeWeek": 480,
+    "timeMonth": 460,
     "timeYear": 419,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-18": 32,
+      "2025-07-19": 32,
+      "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -415,8 +416,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetse.nl.ico",
     "slug": "koetse-nl",
     "status": "down",
-    "uptime": "88.75%",
+    "uptime": "88.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.32%",
-    "time": 1943,
-    "timeDay": 594,
-    "timeWeek": 645,
-    "timeMonth": 599,
-    "timeYear": 1600,
+    "uptimeYear": "59.05%",
+    "time": 1942,
+    "timeDay": 527,
+    "timeWeek": 632,
+    "timeMonth": 592,
+    "timeYear": 1596,
     "dailyMinutesDown": {
-      "2025-07-18": 32,
+      "2025-07-19": 32,
+      "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -600,12 +601,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 114,
-    "timeDay": 113,
-    "timeWeek": 121,
-    "timeMonth": 120,
+    "timeDay": 92,
+    "timeWeek": 111,
+    "timeMonth": 118,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-07-18": 32,
+      "2025-07-19": 32,
+      "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -968,8 +970,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   }
 ]
