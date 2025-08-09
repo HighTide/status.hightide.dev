@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 68,
-    "timeWeek": 165,
-    "timeMonth": 159,
-    "timeYear": 149,
+    "timeDay": 204,
+    "timeWeek": 167,
+    "timeMonth": 160,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
-    "timeDay": 367,
-    "timeWeek": 496,
+    "timeDay": 375,
+    "timeWeek": 459,
     "timeMonth": 471,
-    "timeYear": 421,
+    "timeYear": 422,
     "dailyMinutesDown": {}
   },
   {
@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.koetse.eu.ico",
     "slug": "home-koetse-eu",
     "status": "down",
-    "uptime": "1.07%",
+    "uptime": "1.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-08": 34,
+      "2025-08-09": 31,
+      "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
@@ -415,8 +416,7 @@
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
-      "2024-08-10": 1440,
-      "2024-08-09": 1440
+      "2024-08-10": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetse.nl.ico",
     "slug": "koetse-nl",
     "status": "down",
-    "uptime": "87.36%",
+    "uptime": "87.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.57%",
-    "time": 1858,
-    "timeDay": 575,
-    "timeWeek": 650,
-    "timeMonth": 606,
-    "timeYear": 1442,
+    "uptimeYear": "53.29%",
+    "time": 1855,
+    "timeDay": 527,
+    "timeWeek": 620,
+    "timeMonth": 607,
+    "timeYear": 1441,
     "dailyMinutesDown": {
-      "2025-08-08": 34,
+      "2025-08-09": 31,
+      "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
@@ -621,12 +622,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 115,
-    "timeDay": 99,
-    "timeWeek": 103,
+    "timeDay": 91,
+    "timeWeek": 102,
     "timeMonth": 118,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-08-08": 34,
+      "2025-08-09": 31,
+      "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
@@ -989,8 +991,7 @@
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
-      "2024-08-10": 1440,
-      "2024-08-09": 1440
+      "2024-08-10": 1440
     }
   }
 ]
