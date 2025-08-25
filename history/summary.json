@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 116,
-    "timeWeek": 148,
-    "timeMonth": 158,
-    "timeYear": 151,
+    "timeDay": 61,
+    "timeWeek": 137,
+    "timeMonth": 153,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 363,
-    "timeWeek": 490,
-    "timeMonth": 512,
+    "time": 419,
+    "timeDay": 530,
+    "timeWeek": 518,
+    "timeMonth": 508,
     "timeYear": 427,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-24": 33,
+      "2025-08-25": 31,
+      "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -415,8 +416,7 @@
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
-      "2024-08-26": 1440,
-      "2024-08-25": 1440
+      "2024-08-26": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetse.nl.ico",
     "slug": "koetse-nl",
     "status": "down",
-    "uptime": "86.34%",
+    "uptime": "86.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.18%",
-    "time": 1770,
-    "timeDay": 514,
-    "timeWeek": 570,
-    "timeMonth": 593,
-    "timeYear": 1322,
+    "uptimeYear": "48.91%",
+    "time": 1768,
+    "timeDay": 759,
+    "timeWeek": 611,
+    "timeMonth": 594,
+    "timeYear": 1309,
     "dailyMinutesDown": {
-      "2025-08-24": 33,
+      "2025-08-25": 31,
+      "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -637,12 +638,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 117,
-    "timeDay": 125,
-    "timeWeek": 235,
-    "timeMonth": 144,
+    "timeDay": 85,
+    "timeWeek": 236,
+    "timeMonth": 143,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-08-24": 33,
+      "2025-08-25": 31,
+      "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -1005,8 +1007,7 @@
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
-      "2024-08-26": 1440,
-      "2024-08-25": 1440
+      "2024-08-26": 1440
     }
   }
 ]
